@@ -19,7 +19,7 @@ def main():
     # Calibra o sensor de gás
     print("Calibrando")
     meu_mq2.calibrate()
-    print("Calibração completa")
+    print("Calibragem finalizada")
     print("Resistência base:{0}".format(meu_mq2._ro))
     
     # Limpa o display OLED
