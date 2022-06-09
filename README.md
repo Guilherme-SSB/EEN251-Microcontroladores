@@ -19,6 +19,8 @@ Foi utilizado os seguintes componentes eletrônicos:
 - MQ2 - Sensor de Gás
 - Painel OLED
 
+[Link do vídeo do projeto em execução]()
+
 ### Vista superior do circuito montado
 ![alt text](imgs/Circuito.jpeg "circuito")
 
