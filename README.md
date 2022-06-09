@@ -22,7 +22,7 @@ Foi utilizado os seguintes componentes eletrônicos:
 [Link do vídeo do projeto em execução]()
 
 ### Vista superior do circuito montado
-![alt text](imgs/Circuito.jpeg "circuito")
+![alt text](imgs/circuito.jpeg "circuito")
 
 ### Imagens da caixa criada para suportar o circuito
 ![alt text](imgs/Caixa%20semi-montada.jpeg "caixa-semi")
