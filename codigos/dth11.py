@@ -1,19 +1,32 @@
-#Teste da biblitoeca do Micropython para utilizar o DHT11(Azul)
+from time import sleep_ms
+
 import dht
 import machine
-from time import sleep_ms
-class DTH22:
-        def __init__(self):
-            SENSOR_PIN = 28
-            self.sensor = dht.DHT22(machine.Pin(SENSOR_PIN, machine.Pin.IN, machine.Pin.PULL_UP))
 
-        def medirTemp(self):
-            self.sensor.measure()
-            sleep_ms(100)
-            temperatura = "Temp: " + str(self.sensor.temperature()) + "C"
-            return temperatura
-        
-        def medirUmidade(self):
-            self.sensor.measure()
-            umidade = "Umidade: " + str(self.sensor.humidity()) + "%"
-            return umidade
+
+class DTH22:
+    def __init__(self):
+        """
+        Seta o pino do DTH22
+        """
+        SENSOR_PIN = 28
+        self.sensor = dht.DHT22(machine.Pin(
+            SENSOR_PIN, machine.Pin.IN, machine.Pin.PULL_UP))
+
+    def medirTemp(self) -> str:
+        """
+        Lê a temperatura do sensor e retorna uma string com a temperatura
+        :return: The temperature in Celsius.
+        """
+        self.sensor.measure()
+        sleep_ms(100)
+        temperatura = "Temp: " + str(self.sensor.temperature()) + "C"
+        return temperatura
+
+    def medirUmidade(self) -> str:
+        """
+        Lê a umidade do sensor e retorna uma string com o valor
+        """
+        self.sensor.measure()
+        umidade = "Umidade: " + str(self.sensor.humidity()) + "%"
+        return umidade

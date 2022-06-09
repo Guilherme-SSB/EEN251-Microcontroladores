@@ -1,14 +1,18 @@
-from machine import Pin
 import time
- 
-ldr = machine.ADC(27)
-led = Pin(25, Pin.OUT)
- 
-while True:
-     print(ldr.read_u16())
-     if ldr.read_u16() >= 15000:
-         led.high()
-         time.sleep(0.5)
-     else:
-        led.low()
-        time.sleep(0.5)
+
+import machine
+
+
+class LDR:
+    def __init__(self):
+        """
+        Seta o pino do LDR
+        """
+        self.ldr = machine.ADC(27)
+
+    def read(self) -> float:
+        """
+        Faz a leitura do sensor LDR e retorna o valor como float
+        :return: O valor do sensor LDR como float.
+        """
+        return float(self.ldr.read_u16())
