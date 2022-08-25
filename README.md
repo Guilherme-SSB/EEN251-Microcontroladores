@@ -1,4 +1,4 @@
-# Trabalho T1 EEN251 - SmartHome
+# Trabalho T2 EEN251 - SmartHome
 
 ## Integrantes do grupo
 Guilherme Samuel de Souza Barbosa - RA 19.00012-0
@@ -9,10 +9,12 @@ Gustavo Consoleti Ramirez de Souza - RA: 19.00715-9
 
 ## Projeto
 
-Nosso projeto consiste em um sistema central que faz a leitura de diversos sensores e possui algumas lógicas em cima dessas leituras.
+Nosso projeto consiste em um sistema que monitora sensores de temperatura, luminosidade, gás e umidade e mostra esses dados em um Dashboard interativo, feito de NodeRed, com output em um display Touchscreen.
 
 Foi utilizado os seguintes componentes eletrônicos:
 
+• T1 - Coleta dos dados
+- Raspberry Pi Pico
 - Buzzer
 - DTH11 - Sensor de Temperatura e Pressão
 - LDR - Sensor de Luminosidade
@@ -20,6 +22,10 @@ Foi utilizado os seguintes componentes eletrônicos:
 - Painel OLED
 
 [Link do vídeo do projeto em execução](https://youtu.be/hk8b_z8nRYc)
+
+• T2 - Dashboard
+- Raspberry Pi
+- 7" Touchscreen Display
 
 ### Vista superior do circuito montado
 ![alt text](imgs/circuito.jpeg "circuito")
