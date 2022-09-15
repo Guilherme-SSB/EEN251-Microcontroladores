@@ -13,9 +13,9 @@ Gustavo Consoleti Ramirez de Souza - RA: 19.00715-9
 ![alt text](imgs/Eletronica.jpeg "Eletronica")
 
 ### Dashboard
-![alt text](imgs/Dashboard 1.jpeg "Dashboard_1")
+![alt text](imgs/Dashboard1.jpeg "Dashboard_1")
 
-![alt text](imgs/Dashboard 2.jpeg "Dashboard_2")
+![alt text](imgs/Dashboard2.jpeg "Dashboard_2")
 
 ## Projeto
 
