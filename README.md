@@ -9,7 +9,8 @@ Gustavo Consoleti Ramirez de Souza - RA: 19.00715-9
 
 [Link do vídeo do projeto em execução](https://www.youtube.com/watch?v=4Dw4A4rD4js)
 
-
+### Circuito do Pi
+![alt text](imgs/Eletronica.jpeg "Eletronica")
 
 ## Projeto
 
