@@ -7,6 +7,10 @@ Igor Eiki Ferreira Kubota - RA 19.02466-5
 
 Gustavo Consoleti Ramirez de Souza - RA: 19.00715-9
 
+[Link do vídeo do projeto em execução](https://www.youtube.com/watch?v=4Dw4A4rD4js)
+
+
+
 ## Projeto
 
 Nosso projeto consiste em um sistema que monitora sensores de temperatura, luminosidade, gás e umidade e mostra esses dados em um Dashboard interativo, feito de NodeRed, com output em um display Touchscreen.
