@@ -55,3 +55,10 @@ Foi utilizado os seguintes componentes eletrônicos:
 ![alt text](imgs/Dashboard1.jpeg "Dashboard_1")
 
 ![alt text](imgs/Dashboard2.jpeg "Dashboard_2")
+
+### Dashboad na nuvem
+![alt text](imgs/dashboard na nuvem.jpg "Dashboard_nuvem")
+
+### Node-red com Ubidots
+![alt text](imgs/node-red.jpg "node-red-ubidots")
+
