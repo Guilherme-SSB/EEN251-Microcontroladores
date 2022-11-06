@@ -33,6 +33,7 @@ Foi utilizado os seguintes componentes eletrônicos:
 [Link do vídeo do projeto em execução](https://youtu.be/hk8b_z8nRYc)
 
 • T2 - Dashboard
+
 [Link do vídeo do projeto em execução](https://www.youtube.com/watch?v=4Dw4A4rD4js)
 
 - Raspberry Pi
@@ -41,6 +42,7 @@ Foi utilizado os seguintes componentes eletrônicos:
 • T3 - Deploy do Dashboard
 
 [Link do dashboard no celular](https://youtu.be/EO3uwopUiKc)
+
 [Link da montagem do projeto](https://youtu.be/5shehG-GXBo)
 
 
