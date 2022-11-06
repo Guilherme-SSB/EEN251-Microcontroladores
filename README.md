@@ -1,4 +1,4 @@
-# Trabalho T2 EEN251 - SmartHome
+# Trabalho T3 EEN251 - SmartHome
 
 ## Integrantes do grupo
 Guilherme Samuel de Souza Barbosa - RA 19.00012-0
@@ -7,7 +7,6 @@ Igor Eiki Ferreira Kubota - RA 19.02466-5
 
 Gustavo Consoleti Ramirez de Souza - RA: 19.00715-9
 
-[Link do vídeo do projeto em execução](https://www.youtube.com/watch?v=4Dw4A4rD4js)
 
 ### Circuito do Pi
 ![alt text](imgs/Eletronica.jpeg "Eletronica")
@@ -34,8 +33,19 @@ Foi utilizado os seguintes componentes eletrônicos:
 [Link do vídeo do projeto em execução](https://youtu.be/hk8b_z8nRYc)
 
 • T2 - Dashboard
+[Link do vídeo do projeto em execução](https://www.youtube.com/watch?v=4Dw4A4rD4js)
+
 - Raspberry Pi
 - 7" Touchscreen Display
+
+• T3 - Deploy do Dashboard
+
+[Link do dashboard no celular](https://youtu.be/EO3uwopUiKc)
+[Link da montagem do projeto](https://youtu.be/5shehG-GXBo)
+
+
+- Ubidots
+- Node Red
 
 ### Vista superior do circuito montado
 ![alt text](imgs/circuito.jpeg "circuito")
@@ -44,5 +54,4 @@ Foi utilizado os seguintes componentes eletrônicos:
 ![alt text](imgs/Caixa%20semi-montada.jpeg "caixa-semi")
 
 ![alt text](imgs/Caixa%20completa.jpeg "caixa_full")
-
 
