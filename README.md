@@ -7,15 +7,6 @@ Igor Eiki Ferreira Kubota - RA 19.02466-5
 
 Gustavo Consoleti Ramirez de Souza - RA: 19.00715-9
 
-
-### Circuito do Pi
-![alt text](imgs/Eletronica.jpeg "Eletronica")
-
-### Dashboard
-![alt text](imgs/Dashboard1.jpeg "Dashboard_1")
-
-![alt text](imgs/Dashboard2.jpeg "Dashboard_2")
-
 ## Projeto
 
 Nosso projeto consiste em um sistema que monitora sensores de temperatura, luminosidade, gás e umidade e mostra esses dados em um Dashboard interativo, feito de NodeRed, com output em um display Touchscreen.
@@ -45,7 +36,6 @@ Foi utilizado os seguintes componentes eletrônicos:
 
 [Link da montagem do projeto](https://youtu.be/5shehG-GXBo)
 
-
 - Ubidots
 - Node Red
 
@@ -57,3 +47,11 @@ Foi utilizado os seguintes componentes eletrônicos:
 
 ![alt text](imgs/Caixa%20completa.jpeg "caixa_full")
 
+
+### Circuito do Pi
+![alt text](imgs/Eletronica.jpeg "Eletronica")
+
+### Dashboard
+![alt text](imgs/Dashboard1.jpeg "Dashboard_1")
+
+![alt text](imgs/Dashboard2.jpeg "Dashboard_2")
